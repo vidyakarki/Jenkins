@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Hello APIjava]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30" started-at="2022-09-12T04:47:37Z" finished-at="2022-09-12T04:47:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30" started-at="2022-09-12T04:47:37Z" finished-at="2022-09-12T04:47:37Z">
+      <class name="infy.testcase3">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:infy.testcase3@22a71081]" name="tc1" duration-ms="15" started-at="2022-09-12T10:17:37Z" finished-at="2022-09-12T10:17:37Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Hello APIjava]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- infy.testcase3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
