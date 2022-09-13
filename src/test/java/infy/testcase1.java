@@ -10,4 +10,8 @@ public class testcase1 {
 	{
 		Reporter.log("Hello java",true);
 	}	
+	public void tc4()
+	{
+		Reporter.log("Hello C",true);
+	}	
 }
